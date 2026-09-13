@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+
+  --background: #F8F3E8;
+  --primary-green: #355E4B;
+  --soft-green: #8FB996;
+  --accent-orange: #F5A623;
+
+}
+
+
+body {
+
+  background: var(--background);
+  color: #333;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
